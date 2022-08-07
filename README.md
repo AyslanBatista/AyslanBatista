@@ -12,16 +12,18 @@
  ### <img class="emoji" alt="books" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png"> Estou aprendendo:
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="42" height="42"/></code>
 <br><br>
+### Conhecimentos em:
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;">
+<br><br>
 ### <img class="emoji" alt="iphone" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png"> Contatos:
 
 <div>
-<a href="mailto:ayslan.batista@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "mailto:ayslanbatistaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2F00UHkSTQcSCtZz4kIbScw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<br><br>
 <h1></h1>
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/AyslanBatista">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyslanBatista&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyslanBatista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
