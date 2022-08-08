@@ -1,6 +1,6 @@
 ## Olá, me chamo Ayslan Batista ! 
 ### Bem vindo ao meu perfil GitHub 👋
-### <img class="emoji" alt="woman_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png"> Eu principalmente codifico usando:
+### <img class="emoji" alt="woman_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png"> Principais tecnologias e ferramentas:
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></code>
  <br><br>
  ### <img class="emoji" alt="desktop_computer" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png"> Minha caixa de ferramentas inclui:
