@@ -28,7 +28,7 @@ louvem-no todos os povos.
 Pois grande é o seu amor por nós;}}$
 $\textit{\color{cyan}{
   a fidelidade do Senhor dura para sempre.
-  Louvado seja o Senhor!" Salmos 117:1,2 }}$
+  Louvado seja o Senhor!" Salmos 117:1-2 }}$
 <h1></h1>
 <div>
 <a href="https://github.com/AyslanBatista">
