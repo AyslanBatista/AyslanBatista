@@ -1,5 +1,4 @@
 ## Olá, me chamo Ayslan Batista !  🙂
-### Bem vindo ao meu perfil GitHub 👋
 ### 👨‍💻 Principais tecnologias:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
