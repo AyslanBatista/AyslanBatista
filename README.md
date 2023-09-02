@@ -1,4 +1,4 @@
-## Olá, me chamo Ayslan Batista ! 
+## Olá, me chamo Ayslan Batista !  🙂
 ### Bem vindo ao meu perfil GitHub 👋
 ### <img class="emoji" alt="woman_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png"> Principais tecnologias:
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></code>
@@ -15,12 +15,24 @@
 ### <img class="emoji" alt="iphone" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png"> Contatos:
 
 <div>
+
+
+ 
 <a href = "mailto:ayslanbatistaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2F00UHkSTQcSCtZz4kIbScw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<br><br>
+
+$\textit{\color{cyan}{ "Louvem o Senhor todas as nações;
+louvem-no todos os povos.
+Pois grande é o seu amor por nós;
+  a fidelidade do Senhor dura para sempre.
+  Louvado seja o Senhor!" Salmos 117:1,2 }}$
 <h1></h1>
 <div>
 <a href="https://github.com/AyslanBatista">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyslanBatista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyslanBatista&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+
