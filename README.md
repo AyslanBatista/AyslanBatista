@@ -1,4 +1,5 @@
 ## Hi, I'm Ayslan Batista! 🙂
+
 <p style="display: flex;">
  <a href="https://tryhackme.com/p/Melquisedeque">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Melquisedeque.png" alt="TryHackMe">
@@ -8,9 +9,7 @@
  </a>
 </p>
 
-
 🕵️‍♂️ $\textsf{\color{red}{Cybersecurity | Offensive Security | Pentest | Red Team | Python Scripting }}$
-
 
 ### 🛠 Technical Skill & Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
