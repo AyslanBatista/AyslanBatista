@@ -30,7 +30,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## ⚙️ GitHub Stats:
+### ⚙️ GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyslanBatista&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyslanBatista&layout=compact)
 
