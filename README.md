@@ -9,7 +9,7 @@
  </a>
 </p>
 
-💻 $\textsf{\color{red}{Cybersecurity | Offensive Security | Pentest | Red Team | Python Scripting}}$
+💻 $\textsf{\color{red}{Cybersecurity | Offensive Security | Pentest | Red Team | Python Scripting }}$
 
 ### 🛠 Technical Skill & Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
