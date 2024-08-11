@@ -2,7 +2,7 @@
 
 <p style="display: flex;">
  <a href="https://tryhackme.com/p/Melquisedeque">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Melquisedeque.png?2" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Melquisedeque.png?3" alt="TryHackMe">
  </a>
  <a href="https://tryhackme.com/p/Melquisedeque">
     <img src="https://camo.githubusercontent.com/f39b3184aeac4131d2e56523b0f62c1c81f791fa1502c563be39f5d04dbaee31/68747470733a2f2f626c6f672e696d617274696375732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032312f31322f646a62776766772e676966" align="right"; style="width: 40%;">
