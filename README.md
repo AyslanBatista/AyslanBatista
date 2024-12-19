@@ -1,5 +1,3 @@
-## Hi, I'm Ayslan Batista! 🙂
-
 <p style="display: flex;">
  <a href="https://tryhackme.com/p/Melquisedeque">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Melquisedeque.png?6" alt="TryHackMe">
@@ -33,10 +31,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyslanBatista&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyslanBatista&layout=compact)
 
-### 📱 Contact me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayslan-batista-242547230/)](https://www.linkedin.com/in/ayslan-batista-242547230/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:ayslan.batista@hotmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:ayslanbatistaa@gmail.com)
 
 $\textit{\color{cyan}{ "Louvem o Senhor todas as nações; louvem-no todos os povos. Pois grande é o seu amor por nós;}}$
 $\textit{\color{cyan}{a fidelidade do Senhor dura para sempre. Louvado seja o Senhor!"}}$
