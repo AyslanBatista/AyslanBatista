@@ -1,9 +1,11 @@
 <p style="display: flex;">
  <a href="https://tryhackme.com/p/Melquisedeque">
+<p style="display: flex;">
+ <a href="https://tryhackme.com/p/Melquisedeque">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Melquisedeque.png?update=1" alt="Your Image Badge" />
  </a>
  <a href="https://tryhackme.com/p/Melquisedeque">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dlODgxNTRjemFvMmo2enljY2J2enJpYm8wNGV0cGpzZGYwZHE2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" align="right"; style="width: 42%;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dlODgxNTRjemFvMmo2enljY2J2enJpYm8wNGV0cGpzZGYwZHE2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" align="right" style="width: 42%; margin-top: 20px;">
  </a>
 </p>
 
@@ -12,6 +14,7 @@
 ### 🛠 Technical Skill & Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
