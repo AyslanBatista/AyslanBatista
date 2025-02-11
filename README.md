@@ -3,7 +3,8 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/Melquisedeque.png?update=1" alt="Your Image Badge" />
  </a>
  <a href="https://tryhackme.com/p/Melquisedeque">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dlODgxNTRjemFvMmo2enljY2J2enJpYm8wNGV0cGpzZGYwZHE2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" align="right" style="width: 42%; margin-top: 20px;">
+    <br>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dlODgxNTRjemFvMmo2enljY2J2enJpYm8wNGV0cGpzZGYwZHE2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" align="right" style="width: 42%;">
  </a>
 </p>
 
@@ -27,6 +28,8 @@
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&amp;logo=vim&amp;logoColor=whit)
+
+<br>
 
 ### ⚙️ GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyslanBatista&show_icons=true&bg_color=00000000)
