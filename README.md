@@ -1,7 +1,5 @@
 <p style="display: flex;">
  <a href="https://tryhackme.com/p/Melquisedeque">
-<p style="display: flex;">
- <a href="https://tryhackme.com/p/Melquisedeque">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Melquisedeque.png?update=1" alt="Your Image Badge" />
  </a>
  <a href="https://tryhackme.com/p/Melquisedeque">
