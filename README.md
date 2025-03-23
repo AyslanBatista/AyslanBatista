@@ -4,7 +4,7 @@
  </a>
  <a href="https://tryhackme.com/p/Melquisedeque">
     <br>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dlODgxNTRjemFvMmo2enljY2J2enJpYm8wNGV0cGpzZGYwZHE2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" align="right" style="width: 42%;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dlODgxNTRjemFvMmo2enljY2J2enJpYm8wNGV0cGpzZGYwZHE2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" align="right" style="width: 38%;">
  </a>
 </p>
 
