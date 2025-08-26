@@ -32,8 +32,8 @@
 <br>
 
 ### ⚙️ GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyslanBatista&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyslanBatista&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyslanBatista&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyslanBatista&layout=compact&theme=dark)
 
 
 $\textit{\color{cyan}{ "Louvem o Senhor todas as nações; louvem-no todos os povos. Pois grande é o seu amor por nós;}}$
